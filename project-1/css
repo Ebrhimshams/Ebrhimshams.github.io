@@ -1,0 +1,12 @@
+.tt{
+      box-shadow: 12px 12px 12px 12px;
+      color: red;
+    }
+    .rr{
+      box-shadow: 12px 12px 2px 12px;
+      margin-top: 42px;
+      margin-bottom: 64px;
+    }
+    a{
+      text-decoration: none;
+    }
